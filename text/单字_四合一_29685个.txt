@@ -333,8 +333,8 @@
 333	丑	4	null	null	5211	200	5211	300	chǒu	chou3
 334	卍	4	null	null	5212	200	5212	300	wàn	wan4
 335	爿	4	null	null	02	202	5213	300	pán/qiáng	pan2/qiang2
-336	巴	4	null	null	5215	200	5215	301	bā/ba	ba1/ba0
-337	孔	4	null	null	525	201	5215	300	kǒng	kong3
+336	巴	4	null	null	5215	200	5215	300	bā/ba	ba1/ba0
+337	孔	4	null	null	585	200	5215	301	kǒng	kong3
 338	队	4	null	null	5234	200	5234	300	duì	dui4
 339	阞	4	null	null	5253	200	5253	300	lè	le4
 340	収	4	null	null	5254	200	5254	300	shōu	shou1
