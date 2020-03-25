@@ -3,6 +3,7 @@
 * * *
 
 提示：此处提供的仅仅是“码表”，欢迎程序员以此开发输入法软件。
+
 真正可在Windows及Linux使用的“ 单手笔顺输入法（Rime版）”下载地址： https://github.com/YQ-YSY/one-hand_Rime
 
 * * *
