@@ -1,29 +1,33 @@
 单手笔顺输入法码表 stroke-seq_MB 2.0 版
-
-* * *
-    提示：此处提供的仅仅是“码表”，欢迎程序员以此开发输入法软件。
+    
+<big>提示：</big>
+    
+    此处提供的仅仅是“码表”，欢迎程序员以此开发输入法软件。
     真正支持Windows及Linux系统可使用的“ 单手笔顺输入法（2.0版）”下载地址列表请参阅：
-    https://github.com/YQ-YSY/one-hand_Rime
-* * *
+    [https://github.com/YQ-YSY/one-hand_Rime]()
+    
+<big>下载地址：</big>
+    
     以下是“单手笔顺输入法（2.0版）码表.zip（75M）”的各大网盘下载地址：
     您也可以直接给我发邮件 ysq-yy@163.com，注明想要的版本，我会回复邮件发送给您。
     
     天翼云盘：（速度快，需要注册用户才能下载，微信一扫即可）
-    https://cloud.189.cn/t/N3ERNnmmmmyu
+    [https://cloud.189.cn/t/N3ERNnmmmmyu]()
     
     蓝奏云：（速度快，无需注册用户也能下载）
     （但有时域名解析出错，host文件需添加一行 118.31.212.253 www.lanzous.com ）
-    https://www.lanzous.com/iCi1hf3j7ih
+    [https://www.lanzous.com/iCi1hf3j7ih]()
     
     坚果云：（需要注册用户才能下载）
-    https://www.jianguoyun.com/p/DVl-6aAQgvjVCBj07a8D
+    [https://www.jianguoyun.com/p/DVl-6aAQgvjVCBj07a8D]()
     
     百度云：（速度慢，需要注册用户且安装客户端才能下载）
-    https://pan.baidu.com/s/1CvbMaUzY_7jM8QTHytjPvg 提取码: yg74
+    [https://pan.baidu.com/s/1CvbMaUzY_7jM8QTHytjPvg]() 提取码: yg74
     
     腾讯微云：（速度慢，需要注册用户才能下载）
-    https://share.weiyun.com/N5nPnuPr
-* * *
+    [https://share.weiyun.com/N5nPnuPr]()
+    
+<big>说明：</big>
     
     版权：GPL v3+
     遵照《GB13000.1字符集汉字字序（笔画序）规范》共20902个汉字，遵照《GB13000.1字符集汉字笔顺规范》；
