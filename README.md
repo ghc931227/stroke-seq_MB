@@ -12,22 +12,22 @@
     您也可以直接给我发邮件 ysq-yy@163.com，注明想要的版本，我会回复邮件发送给您。
     
     天翼云盘：（速度快，需要注册用户才能下载，微信一扫即可）
-    [https://cloud.189.cn/t/N3ERNnmmmmyu]()
+    [https://cloud.189.cn/t/N3ERNnmmmmyu](https://cloud.189.cn/t/N3ERNnmmmmyu)
     
     蓝奏云：（速度快，无需注册用户也能下载）
     （但有时域名解析出错，host文件需添加一行 118.31.212.253 www.lanzous.com ）
-    [https://www.lanzous.com/iCi1hf3j7ih]()
+    [https://www.lanzous.com/iCi1hf3j7ih](https://www.lanzous.com/iCi1hf3j7ih)
     
     坚果云：（需要注册用户才能下载）
-    [https://www.jianguoyun.com/p/DVl-6aAQgvjVCBj07a8D]()
+    [https://www.jianguoyun.com/p/DVl-6aAQgvjVCBj07a8D](https://www.jianguoyun.com/p/DVl-6aAQgvjVCBj07a8D)
     
     百度云：（速度慢，需要注册用户且安装客户端才能下载）
-    [https://pan.baidu.com/s/1CvbMaUzY_7jM8QTHytjPvg]() 提取码: yg74
+    [https://pan.baidu.com/s/1CvbMaUzY_7jM8QTHytjPvg](https://pan.baidu.com/s/1CvbMaUzY_7jM8QTHytjPvg) 提取码: yg74
     
     腾讯微云：（速度慢，需要注册用户才能下载）
-    [https://share.weiyun.com/N5nPnuPr]()
+    [https://share.weiyun.com/N5nPnuPr](https://share.weiyun.com/N5nPnuPr)
     
-<big>说明：</big>
+<big>开发说明</big>
     
     版权：GPL v3+
     遵照《GB13000.1字符集汉字字序（笔画序）规范》共20902个汉字，遵照《GB13000.1字符集汉字笔顺规范》；
