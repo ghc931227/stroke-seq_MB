@@ -3,29 +3,24 @@
 <big>提示：</big>
     
     此处提供的仅仅是“码表”，欢迎程序员以此开发输入法软件。
-    真正支持Windows及Linux系统可使用的“ 单手笔顺输入法（2.0版）”下载地址列表请参阅：
-[https://github.com/YQ-YSY/one-hand_Rime](https://github.com/YQ-YSY/one-hand_Rime)
+    支持Windows及Linux系统的“ 单手笔顺输入法（2.0版）软件”下载地址列表请参阅：[https://github.com/YQ-YSY/one-hand_Rime](https://github.com/YQ-YSY/one-hand_Rime)
     
 <big>下载地址：</big>
     
     以下是“单手笔顺输入法（2.0版）码表.zip（75M）”的各大网盘下载地址：
     您也可以直接给我发邮件 ysq-yy@163.com，注明想要的版本，我会回复邮件发送给您。
     
-    天翼云盘：（速度快，需要注册用户才能下载，微信一扫即可）
-[https://cloud.189.cn/t/N3ERNnmmmmyu](https://cloud.189.cn/t/N3ERNnmmmmyu)
+    天翼云盘：（速度快，需要注册用户才能下载，微信一扫即可）[https://cloud.189.cn/t/N3ERNnmmmmyu](https://cloud.189.cn/t/N3ERNnmmmmyu)
     
-    蓝奏云：（速度快，无需注册用户也能下载）
+    蓝奏云：（速度快，无需注册用户也能下载）[https://www.lanzous.com/iCi1hf3j7ih](https://www.lanzous.com/iCi1hf3j7ih)
     （但有时域名解析出错，host文件需添加一行 118.31.212.253 www.lanzous.com ）
-[https://www.lanzous.com/iCi1hf3j7ih](https://www.lanzous.com/iCi1hf3j7ih)
+
     
-    坚果云：（需要注册用户才能下载）
-[https://www.jianguoyun.com/p/DVl-6aAQgvjVCBj07a8D](https://www.jianguoyun.com/p/DVl-6aAQgvjVCBj07a8D)
+    坚果云：（需要注册用户才能下载）[https://www.jianguoyun.com/p/DVl-6aAQgvjVCBj07a8D](https://www.jianguoyun.com/p/DVl-6aAQgvjVCBj07a8D)
     
-    百度云：（速度慢，需要注册用户且安装客户端才能下载）
-[https://pan.baidu.com/s/1CvbMaUzY_7jM8QTHytjPvg](https://pan.baidu.com/s/1CvbMaUzY_7jM8QTHytjPvg) 提取码: yg74
+    百度云：（速度慢，需要注册用户且安装客户端才能下载）[https://pan.baidu.com/s/1CvbMaUzY_7jM8QTHytjPvg](https://pan.baidu.com/s/1CvbMaUzY_7jM8QTHytjPvg) 提取码: yg74
     
-    腾讯微云：（速度慢，需要注册用户才能下载）
-[https://share.weiyun.com/N5nPnuPr](https://share.weiyun.com/N5nPnuPr)
+    腾讯微云：（速度慢，需要注册用户才能下载）[https://share.weiyun.com/N5nPnuPr](https://share.weiyun.com/N5nPnuPr)
     
 <big>开发说明</big>
     
